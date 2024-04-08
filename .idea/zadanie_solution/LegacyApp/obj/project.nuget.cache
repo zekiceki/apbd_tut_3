@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xlXTyZL1Vpi28Oy7bpOK9sVIYJeAD32Xu8WN6oL8XzyiF2FQRUTvbFu18//uJd5YXDMFw3+35LKI3VT+WAzkw==",
+  "success": true,
+  "projectFilePath": "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/LegacyApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/pgago/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/pgago/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
